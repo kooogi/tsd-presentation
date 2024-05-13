@@ -5,7 +5,7 @@
 2. install Spring Boot Extension Pack
 
 ## Task 1
-1. initialize database with minimum one table in src/main/resources/db/migration
+1. create database with minimum one table in src/main/resources/db/migration (file has to be named like V0001__Create_schema.sql)
 2. create data access layer consisting of minimum one entity and repository
 
 ## Task 2
